@@ -1,0 +1,6 @@
+export const INCREMENT_BY_1 = "INCREMENT_BY_1";
+export const INCREMENT_BY_5 = "INCREMENT_BY_5";
+export const INCREMENT_BY_10 = "INCREMENT_BY_10";
+export const DECREMENT_BY_1 = "DECREMENT_BY_1";
+export const DECREMENT_BY_5 = "DECREMENT_BY_5";
+export const DECREMENT_BY_10 = "DECREMENT_BY_10";
